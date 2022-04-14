@@ -1,4 +1,8 @@
-### Hi there 👋
+### I am Eti, and I am Xan
+
+Both names are valid, pick your choice, or flip a coin if you find yourself indecisive.
+
+I am a game developer and open source software developer. My favorite thing to do is simply to contribute to the code available to the general public, be it in the form of neat little libraries or complete apps.
 
 <!--
 **EtiTheSpirit/EtiTheSpirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
