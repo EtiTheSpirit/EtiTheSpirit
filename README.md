@@ -4,6 +4,8 @@ Both names are valid, pick your choice, or flip a coin if you find yourself inde
 
 I am a game developer and open source software developer. My favorite thing to do is simply to contribute to the code available to the general public, be it in the form of neat little libraries or complete apps.
 
+You'll often find me interested in things in phases. As of the last time I edited this, I am super interested in Risk of Rain 2 modding.
+
 <!--
 **EtiTheSpirit/EtiTheSpirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
