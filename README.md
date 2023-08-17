@@ -4,6 +4,8 @@ Both names are valid, pick your choice, but if you can't decide usually I'll fal
 
 I am a game developer and open source software developer. My favorite thing to do is simply to contribute to the code available to the general public, be it in the form of neat little libraries or complete apps, and even moreso in the form of game mods.
 
+**Check my pinned repositories below for my most significant projects!**
+
 <!--
 **EtiTheSpirit/EtiTheSpirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
